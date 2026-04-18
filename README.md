@@ -51,7 +51,7 @@ Copy the skill to your personal skills directory:
 ```bash
 mkdir -p ~/.cursor/skills/karpathy-guidelines
 curl -o ~/.cursor/skills/karpathy-guidelines/SKILL.md \
-  https://raw.githubusercontent.com/YOUR_USERNAME/cursor-karpathy-guidelines/main/.cursor/skills/karpathy-guidelines/SKILL.md
+  https://raw.githubusercontent.com/reskywtf/cursor-karpathy-guidelines/main/.cursor/skills/karpathy-guidelines/SKILL.md
 ```
 
 **Option 2: Project-Specific**
@@ -62,7 +62,7 @@ Copy the `.cursor` directory to your project:
 cd your-project
 mkdir -p .cursor/skills/karpathy-guidelines
 curl -o .cursor/skills/karpathy-guidelines/SKILL.md \
-  https://raw.githubusercontent.com/YOUR_USERNAME/cursor-karpathy-guidelines/main/.cursor/skills/karpathy-guidelines/SKILL.md
+  https://raw.githubusercontent.com/reskywtf/cursor-karpathy-guidelines/main/.cursor/skills/karpathy-guidelines/SKILL.md
 ```
 
 ## When It's Applied
